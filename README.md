@@ -1,4 +1,4 @@
-# CourseraDataScience
+# Data Science
 Coursera data science Quiz <br/>
 
 
